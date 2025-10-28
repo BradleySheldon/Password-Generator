@@ -1,5 +1,5 @@
 # Password-Generator
- An IT admin's password generator
+ An IT admin's password generator and manager
 # 🔐 Secure Password Generator (Tkinter GUI)
 
 A secure and customizable password generator built with Python and Tkinter. Designed for users who need strong, random passwords for improved security, with features to export and manage generated passwords.
@@ -14,6 +14,7 @@ A secure and customizable password generator built with Python and Tkinter. Desi
 - ✅ Display password strength (Weak, Medium, Strong)
 - ✅ Toggle dashed-line separators between passwords
 - ✅ Numbering of each password in the output
+- ✅ Built in password analyzer for existing passwords
 - ✅ Copy all passwords to clipboard
 - ✅ Export passwords to `.txt` and `.csv` formats
 
