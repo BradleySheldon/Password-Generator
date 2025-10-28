@@ -1,3 +1,8 @@
+"""
+Bradley Sheldon
+10/28/2025
+"""
+
 import tkinter as tk
 from tkinter import messagebox, ttk, filedialog
 import string, secrets, csv, math, re
